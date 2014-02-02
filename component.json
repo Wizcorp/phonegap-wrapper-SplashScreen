@@ -1,0 +1,12 @@
+{
+	"name": "pgSplashScreen",
+	"repo": "Wizcorp/phonegap-wrapper-SplashScreen",
+	"version": "0.1.0",
+	"dependencies": {
+		"Wizcorp/phonegap-wrapper-Core": "0.1.0"
+	},
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
